@@ -10,14 +10,6 @@ div#profile_Stories {
  */
 
 #mainContent>h1:nth-child(1) {
-    text-align: center;
-    text-decoration: underline;
-    font-size: 32px;
-    font-family: monospace;
-    letter-spacing: 5px;
-}
-
-#mainContent>h1:nth-child(1) {
     background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
     -webkit-background-clip: text;
     background-clip: text;
