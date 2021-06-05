@@ -3,7 +3,7 @@ div#profile_Stories {
 }
 
 #mainContent>h1:nth-child(1), #mainContent>h1>span {
-    background: linear-gradient(to right, #2000ff, #833ab4, #fd1d1d, #fcb045);
+    background: radial-gradient(circle, #2000ff, #833ab4, #fd1d1d, #fcb045);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
