@@ -1,4 +1,4 @@
-div#profile_Stories {
+div#profile_Stories, div#profile_Posts {
 	display: none;
 }
 
