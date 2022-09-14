@@ -3,7 +3,7 @@ div#profile_Stories, div#profile_Posts {
 }
 
 #mainContent>h1:nth-child(1), #mainContent>h1>span {
-    background: linear-gradient(60deg, rgba(32,0,255,1) 0%, rgba(131,58,180,1) 25%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 90%);
+    background: linear-gradient(70deg, rgba(32,0,255,1) 0%, rgba(131,5,180,1) 25%, rgba(253,30,29,1) 50%, rgba(252,50,69,1) 90%);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
