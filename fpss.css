@@ -3,11 +3,11 @@ div#profile_Stories, div#profile_Posts {
 }
 
 #mainContent>h1:nth-child(1), #mainContent>h1>span {
-    background: linear-gradient(70deg, rgba(32,0,255,1) 0%, rgba(131,5,180,1) 25%, rgba(253,30,29,1) 50%, rgba(252,50,69,1) 90%);
+    background: linear-gradient(10deg, rgba(255,0,255,1) 0%, rgba(255,1,45,1) 25%, rgba(0,18,255,1) 75%, rgba(0,255,255,1) 100%); 
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
-    animation: rainbow_animation 6s ease-in-out infinite;
+    animation: rainbow_animation 10s ease-in-out infinite;
     background-size: 400% 100%;
 }
 
