@@ -1,0 +1,61 @@
+.codeblock {
+  background-color: #1f1d19 !important;
+  color: #f5f0e5;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.toc-list, .toc-list ol {
+  list-style-type: none;
+}
+
+.toc-list {
+  padding: 0;
+}
+
+.toc-list ol {
+  padding-inline-start: 2ch;
+}
+
+.toc-list li > a {
+  text-decoration: none;
+  display: grid;
+  grid-template-columns: auto max-content;
+  align-items: end;
+}
+
+.toc-list li > a > .page {
+  text-align: right;
+}
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(100%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+}
+
+#ddTOC {
+  padding-bottom: 2em;
+}
+
+.section {
+  margin-bottom: 2em;
+}
+
+.section summary {
+  cursor: pointer;
+  margin: 0;
+  padding: 5px;
+}
+
+.section-content {
+  padding: 10px;
+}
+
+#titleSummary {
+  padding-bottom: 1em;
+}
